@@ -1,0 +1,24 @@
+{
+  "name": "kshetram",
+  "version": "1.0.0",
+  "description": "KSHETRAM - AI & RAG Real Estate Platform",
+  "private": true,
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "real-estate",
+    "rag",
+    "ai",
+    "goa",
+    "bhunaksha",
+    "supabase"
+  ],
+  "author": "Kshetram Technologies",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.187.0"
+  }
+}
